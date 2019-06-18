@@ -26,11 +26,27 @@ h2{
 }
 .line1{
     background-color: gray;
-    height: 7px;
+    height: 5px;
     width: 20000%;
     left: 0px;
     position: fixed;
     top: 110px;
+}
+.line2{
+    background-color: #4aaaa5;
+    position: fixed;
+    height: 5px;
+    left: 0px;
+    bottom: 60px;
+    width: 20000%;
+}
+.line3{
+    background-color: grey;
+    position: fixed;
+    height: 60px;
+    bottom: 0px;
+    left: 0px;
+    width: 20000%;
 }
 .backgroundimg{
     z-index: -1;
