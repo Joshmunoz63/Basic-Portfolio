@@ -1,0 +1,40 @@
+.myname{
+    background-color: #4aaaa5;
+    text-align: center;
+    padding: 20px;
+    height: 75px;
+    width: 200px;
+    position: fixed;
+    color: white;
+    top: 0%;
+    left: 200px;
+
+}
+
+p{
+    margin: 20%;
+    margin-top: 10%;
+    float: left;
+    width: 960px;
+
+}
+h2{
+    position: fixed;
+    top: 120px;
+    left: 390px;
+
+}
+.line1{
+    background-color: gray;
+    height: 7px;
+    width: 20000%;
+    left: 0px;
+    position: fixed;
+    top: 110px;
+}
+.backgroundimg{
+    z-index: -1;
+    position: fixed;
+    width: 1000%;
+    height: 1000%;
+}
